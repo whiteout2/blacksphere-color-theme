@@ -1,0 +1,31 @@
+{
+	"name": "blacksphere",
+	"displayName": "blacksphere",
+	"description": "Color theme",
+	"version": "0.0.1",
+	"publisher": "whiteout",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Blacksphere",
+				"uiTheme": "vs-dark",
+				"path": "./themes/blacksphere-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "111",
+		"publisherId": "222",
+		"publisherDisplayName": "whiteout"
+	}
+}
