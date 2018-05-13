@@ -7,8 +7,8 @@
     "widget.shadow": "#eeeeee",
     "activityBar.background": "#000000",
     "activityBar.foreground": "#ffffff",
-    "activityBarBadge.background": "#000000",
-    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.background": "#dddddd",
+    "activityBarBadge.foreground": "#000000",
     "activityBar.border": "#888888",
     "diffEditor.insertedTextBackground": "#66f0c213",
     "dropdown.background": "#000000",
@@ -55,7 +55,7 @@
     "scrollbarSlider.background": "#aaaaaa59",
     "scrollbarSlider.hoverBackground": "#aaaaaa59",
     "sideBar.background": "#000000",
-    "sideBarSectionHeader.background": "#888888",
+    "sideBarSectionHeader.background": "#444444",
     "sideBarTitle.foreground": "#888888",
     "sideBar.foreground": "#cccccc",
     "sideBar.border": "#888888",
@@ -92,7 +92,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#cccccc"
+        "foreground": "#666666"
       }
     },
     {
