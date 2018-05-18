@@ -21,7 +21,28 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/blacksphere-color-theme.json"
 			}
-		]
+		],
+		"viewsContainers": {
+            "activitybar": [
+                {
+                    "id": "package-explorer",
+                    "title": "x86 Instruction Reference",
+                    "icon": "./resources/x86_white.png"
+                }
+            ]
+        },
+        "views": {
+            "package-explorer": [
+                {
+                    "id": "package-dependencies",
+                    "name": "Dependencies"
+                },
+                {
+                    "id": "package-outline",
+                    "name": "Outline"
+                }
+            ]
+        }
 	},
 	"__metadata": {
 		"id": "111",
